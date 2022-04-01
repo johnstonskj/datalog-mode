@@ -4,7 +4,7 @@ Emacs major mode for Datalog resources
 
 # Install
 
-TBD
+To install a package run `M-x package-install` and select the package `datalog-mode`.
 
 # Contribution
 
